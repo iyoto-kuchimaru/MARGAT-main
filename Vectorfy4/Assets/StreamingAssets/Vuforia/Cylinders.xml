@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="MarkerIcons01" size="0.067000 0.067000" />
+    <CylinderTarget name="Rocket" sideLength="0.100000"/>
+    <CylinderTarget name="Destiny" sideLength="0.100000"/>
+  </Tracking>
+</QCARConfig>

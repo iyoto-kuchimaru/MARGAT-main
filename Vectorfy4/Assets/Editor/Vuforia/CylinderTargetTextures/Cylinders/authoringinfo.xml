@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="Rocket" version="3.0" targetId="b9bbf5582a0c4017bf0075473d10ada9" sideLength="0.100000" topDiameter="0.030000" bottomDiameter="0.030000" sideImage="Rocket.Body_scaled.jpg"/>
+        <CylinderTarget name="Destiny" version="3.0" targetId="60c486181dfc4498b3b150fcf0416742" sideLength="0.100000" topDiameter="0.030000" bottomDiameter="0.030000" sideImage="Destiny.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

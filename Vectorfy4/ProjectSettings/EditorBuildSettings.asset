@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScreen.unity
+    guid: 110a747d125da2f41975f8083f30d66e
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: dd609fd59ef921042baba84ec3341594
+  - enabled: 1
+    path: Assets/Scenes/Iyoto_Ruikai2.unity
+    guid: 5f19cfc60e556d84280c00cfa1bb569b
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 03e21950329f3104989b4773e5171836, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 664e44a31e8ab5849a14845da5ed995c, type: 2}
