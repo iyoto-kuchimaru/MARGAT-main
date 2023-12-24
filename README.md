@@ -51,7 +51,7 @@ For Question 2, please create a rectangle that is longer in the x-axis direction
 
 ![ARMarker](/ReadmePictures/9b79c1ab69e447d97982bba57739e7b6.png)
 
-Bug: You must be able to see the marker to go back to the IntroScreen.
+By loading this image, 5 questions will appear that involve calculating the distance between points, points and straight lines, and points and planes. We recommend using paper and pen to do your calculations. Significant figures are 2 digits after the decimal point. You can also use hints.
 
 ## Vectorfy (Level3)
 This is the second section of the app, the tangible AR Vector sandbox.<br/>
