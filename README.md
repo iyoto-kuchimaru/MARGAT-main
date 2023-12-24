@@ -49,6 +49,8 @@ Text for the games needs clarifying… but that imposes difficulties, in itself.
 To play, all you have to do is follow the text written on the screen. It is created to fit within a 7x7x7 grid. <br/>
 For Question 2, please create a rectangle that is longer in the x-axis direction than the z-axis direction.
 
+![ARMarker](/ReadmePictures/9b79c1ab69e447d97982bba57739e7b6.png)
+
 Bug: You must be able to see the marker to go back to the IntroScreen.
 
 ## Vectorfy (Level3)
